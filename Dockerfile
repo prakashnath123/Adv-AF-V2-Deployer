@@ -10,9 +10,9 @@ ENV TZ=Asia/Kolkata
 RUN apt update && apt upgrade -y
 RUN apt install git -y
 
-COPY run .
+COPY run.sh .
 COPY requirements.txt .
 
 RUN pip3 install --no-cache-dir -r requirements.txt
 
-CMD ["/bin/bash", "run"]
+CMD ["/bin/bash", "run.sh"]
