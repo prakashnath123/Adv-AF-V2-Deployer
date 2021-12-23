@@ -10,7 +10,7 @@ Deploy Adv Auto Filter V2 to heroku.
 ## Heroku
 
 <p align="center">
-<a href="https://heroku.com/deploy?template=https://github.com/AlbertEinsteinTG/Adv-AF-V2-Deploye">
+<a href="https://heroku.com/deploy?template=https://github.com/AlbertEinsteinTG/Adv-AF-V2-Deployer">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
