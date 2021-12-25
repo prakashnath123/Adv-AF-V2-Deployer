@@ -1,6 +1,6 @@
 # Adv-AF-V2-Deployer
 
-Deploy Adv Auto Filter V2 to heroku.
+Deploy to heroku.
 
 <!-- ## Railway
 
