@@ -8,7 +8,7 @@
         "Mongo DB"
     ],
     "website": "https://github.com/CrazyBotsz",
-    "repository": "https://github.com/AlbertEinsteinTG/Adv-AF-V2-Deployer",
+    "repository": "https://github.com/prakashnath123/Adv-AF-V2-Deployer",
     "success_url": "https://telegram.dog/CrazyBotsz",
     "env": {
         "APP_ID": {
