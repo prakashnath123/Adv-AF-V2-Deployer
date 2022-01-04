@@ -17,5 +17,5 @@ Deploy to heroku.
 
 ## Credits:
 
-[rahulps1000](https://github.com/rahulps1000/HerokuBannedDeployer)
+[rahulps1000](https://github.com/prakashnath123/Adv-AF-V2-Deployer)
 
